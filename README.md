@@ -1,2 +1,2 @@
-# recipe-spp-api
+# recipe-app-api
 Recipe API Project
